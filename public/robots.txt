@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /trackback/
 Disallow: /play/*
 
-Sitemap: https://caratluck-casino.co.uk/sitemap.xml
+Sitemap: https://valhallycasino.org.uk/sitemap.xml
