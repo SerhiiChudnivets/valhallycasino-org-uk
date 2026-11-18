@@ -230,6 +230,93 @@
       "updatedAt": {},
       "globalSlotSet": null,
       "globalReviewSet": null
+    },
+    {
+      "id": 185,
+      "title": "Withdrawal",
+      "slug": "withdrawal",
+      "content": "",
+      "seoTitle": "",
+      "seoDescription": "",
+      "htmlHead": "",
+      "gptPrompt": "",
+      "heroTitle": "",
+      "heroSubtitle": "",
+      "heroBadge": "",
+      "ctaText": "",
+      "tagline": "",
+      "heroImage": "",
+      "template": "minimal",
+      "isHomepage": false,
+      "order": 0,
+      "lang": "en-GB",
+      "faqTitle": "",
+      "popupText": "⚔️ Enter Valhally! Unlock 450% up to €28,000 and 450 Free Spins.",
+      "popupLogo": "/uploads/valhally-logo.webp",
+      "sections": null,
+      "slots": [
+        {
+          "link": "",
+          "logo": "/uploads/e402f307b6c761444895c32bb4db41d7.webp",
+          "name": "King of the West",
+          "Name": "King of the West",
+          "logo_alt": "king of the west"
+        },
+        {
+          "link": "",
+          "logo": "/uploads/67208159a9e5f8396e714ec60dcf5e83.webp",
+          "name": "Stormforged",
+          "Name": "Stormforged",
+          "logo_alt": "stormforged"
+        },
+        {
+          "link": "",
+          "logo": "/uploads/498dbf89ecad9e8a4c63a2acc87cb117.webp",
+          "name": "Penalty Shoot",
+          "Name": "Penalty Shoot",
+          "logo_alt": "Penalty Shoot"
+        },
+        {
+          "link": "",
+          "logo": "/uploads/bf69dc1de1f959daf8a469e031733dff.webp",
+          "name": "Gates of Plympus",
+          "Name": "Gates of Plympus",
+          "logo_alt": "GatesOfOlympus1000"
+        }
+      ],
+      "bonuses": [
+        {
+          "link": "/play/",
+          "logo": "/uploads/4d2c57274ad41f70797e49427599fbc6.webp",
+          "name": "450% UP TO €28,000 + 450 FREE SPINS",
+          "Name": "450% UP TO €28,000 + 450 FREE SPINS",
+          "logo_alt": "Crypto Bonus"
+        },
+        {
+          "link": "/play/",
+          "logo": "/uploads/ff3799c304493a4eadcd34d7ed511ace.webp",
+          "name": "FREE DAILY SPIN Win Up to €435 or 100 FS",
+          "Name": "FREE DAILY SPIN Win Up to €435 or 100 FS",
+          "logo_alt": "Welcome Bonus"
+        },
+        {
+          "link": "/play/",
+          "logo": "/uploads/32c02a3fed09a205b7c4720662b18c71.webp",
+          "name": "17 VIP LEVELS Up to 40% Daily Cashback",
+          "Name": "17 VIP LEVELS Up to 40% Daily Cashback",
+          "logo_alt": "Sport Bonus"
+        }
+      ],
+      "faq": [],
+      "globalSlotSetId": null,
+      "globalReviewSetId": null,
+      "websiteId": 251,
+      "createdAt": {},
+      "updatedAt": {},
+      "globalSlotSet": null,
+      "globalReviewSet": null,
+      "popup_text": "⚔️ Enter Valhally! Unlock 450% up to €28,000 and 450 Free Spins.",
+      "popup_logo": "/uploads/valhally-logo.webp"
     }
   ],
   "faq_schema": {
@@ -315,10 +402,10 @@
   "color_main_btn_text": "#f2f6ff",
   "cta_background": "#5071ac",
   "logo": {
-    "url": "/uploads/valhally-casino-logo.webp"
+    "url": "/uploads/valhally-logo.webp"
   },
   "popup_logo": {
-    "url": "/uploads/valhally-casino-logo.webp"
+    "url": "/uploads/valhally-logo.webp"
   },
   "main_background_img": {
     "url": "/uploads/valhally-casino-banner.webp"
@@ -490,8 +577,8 @@
       "question": "Can I Temporarily Block My Own Account?"
     }
   ],
-  "_generated_at": "2026-11-18T14:56:58.879Z",
+  "_generated_at": "2026-11-18T15:02:15.755Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-18T14:56:59.528Z",
-  "_deploy_trigger": "avr0xd"
+  "_last_deploy": "2026-11-18T15:02:16.413Z",
+  "_deploy_trigger": "0ovth2"
 }
