@@ -291,7 +291,7 @@
   "hero_title": "Valhally Casino",
   "hero_subtitle": "ENTER THE WORLD OF VALHALLY",
   "hero_badge": "Explore 9,000+ games",
-  "cta_text": "Play",
+  "cta_text": "PLAY NOW",
   "tagline": "9,000+ CASINO GAMES",
   "features_list": null,
   "footer_text": "© 2026. Valhally Casino. All rights reserved",
@@ -299,9 +299,9 @@
   "faq_title": "FAQ",
   "login_text": "Login",
   "register_text": "Sign Up",
-  "slots_title": "",
+  "slots_title": "Play",
   "bonus_title": "",
-  "get_bonus_btn_text": "PLAY NOW",
+  "get_bonus_btn_text": "Play",
   "redirect_link": "/play/",
   "home_name": "Valhally Casino",
   "subdomains": null,
@@ -490,8 +490,8 @@
       "question": "Can I Temporarily Block My Own Account?"
     }
   ],
-  "_generated_at": "2026-11-18T14:54:01.969Z",
+  "_generated_at": "2026-11-18T14:56:58.879Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-18T14:54:02.729Z",
-  "_deploy_trigger": "m9p39"
+  "_last_deploy": "2026-11-18T14:56:59.528Z",
+  "_deploy_trigger": "avr0xd"
 }
