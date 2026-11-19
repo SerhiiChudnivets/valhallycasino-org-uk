@@ -67,18 +67,24 @@
       "bonuses": [
         {
           "link": "/play/",
-          "logo": "",
-          "name": "500% UP TO €28,000 Across Your First 3 Deposits"
+          "logo": "/uploads/4d2c57274ad41f70797e49427599fbc6.webp",
+          "name": "450% UP TO €28,000 + 450 FREE SPINS",
+          "Name": "450% UP TO €28,000 + 450 FREE SPINS",
+          "logo_alt": "Crypto Bonus"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "500% UP TO 17,000 USDT + 500 Free Spins"
+          "logo": "/uploads/ff3799c304493a4eadcd34d7ed511ace.webp",
+          "name": "FREE DAILY SPIN Win Up to €435 or 100 FS",
+          "Name": "FREE DAILY SPIN Win Up to €435 or 100 FS",
+          "logo_alt": "Welcome Bonus"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "8 BONUSES EVERY WEEK Up to 100% and €700"
+          "logo": "/uploads/32c02a3fed09a205b7c4720662b18c71.webp",
+          "name": "17 VIP LEVELS Up to 40% Daily Cashback",
+          "Name": "17 VIP LEVELS Up to 40% Daily Cashback",
+          "logo_alt": "Sport Bonus"
         }
       ],
       "faq": [
@@ -119,53 +125,49 @@
       "id": 184,
       "title": "Login",
       "slug": "login",
-      "content": "<p>Log in to CaratLuck Casino and pick up where you left off with your existing balance, favourite slots and active rewards. Your account keeps your personal settings and transaction history, so everything you need remains available whenever you sign in.</p><p>To log in to CaratLuck, enter the email address and password you used when registering. We protect your personal information, monitor suspicious activity and help you regain access if you encounter any difficulties.</p><h2>How to Log In and Complete Verification</h2><p>Signing in to your CaratLuck account takes just a few simple steps. Click the Login button in the top menu, enter your account details and return to your personal dashboard. There, you can check your balance, transaction history, active bonuses and profile settings.</p><p>To access your account, follow these steps:</p><ol><li><p>Click the Login button at the top of the page.</p></li><li><p>Enter the email address you used during registration.</p></li><li><p>Enter your account password.</p></li><li><p>Click Login to complete the sign-in process.</p></li></ol><p>Logging in and verifying your identity are two separate processes. Your email address and password are sufficient for a standard login, while Know Your Customer (KYC) checks help us confirm that the account belongs to you. Additional verification may be required before certain financial transactions, even if you've previously accessed your account without any issues.</p><p>Full KYC verification is mandatory when you request a withdrawal, when your cumulative deposits exceed €2,000 or if we detect suspicious activity. Depending on your payment method, country of residence and the nature of your transactions, we may request documents earlier, regardless of how much you've deposited.</p><p>To verify your identity, we may ask for:</p><ul><li><p>A valid passport, national identity card or driving licence.</p></li><li><p>A selfie holding your identification document.</p></li><li><p>A bank statement, utility bill or other proof of address issued within the last three months.</p></li><li><p>Additional documents relating to your payment method or source of funds if required for verification.</p></li></ul><p>For deposits exceeding €5,000, we apply Source of Wealth checks. These involve confirming the legitimate origin of your funds through documents relating to employment income, business earnings, investments or other sources of income. Additional checks may also apply to cryptocurrency transactions under our AML Policy.</p><p>During verification, we use different levels of checks, including SDD, CDD and EDD, depending on our risk assessment. If the documents provided are insufficient or the information doesn't match your account details, we may request further evidence. Certain financial features may remain restricted until the required checks are complete. Once verification is successful, we'll confirm your account's verification status.</p><h2>Security Standards and Account Monitoring</h2><p>We protect your account every time you log in to CaratLuck Casino through technical and organisational security measures. We monitor financial transactions and unusual activity to help prevent unauthorised access and fraud.</p><p>Suspicious login attempts, unusual transactions or inconsistencies in personal information may trigger additional security checks. In such cases, we may temporarily restrict access to certain features until we've verified the account holder's identity. If documents are required, our team will explain what information you need to provide.</p><p>To protect financial transactions, we check that payment methods match the account holder's details. Bank cards, e-wallets and other payment methods must belong to the person registered on the account. Under our AML Policy, withdrawals must be made using the same payment method used for the initial deposit.</p><p>We use your personal information to manage your account, verify your identity, process transactions and meet applicable requirements. We do not sell personal information to third parties. However, certain details may be shared with payment partners, authorised service providers or relevant authorities where permitted or required by our policies.</p><p>Use a unique password and never share it with anyone else. If you sign in on a shared device or someone else's computer, make sure you log out when you've finished. Avoid saving passwords in publicly accessible browsers, and never disclose confidential account information to other people.</p><p>If you notice unfamiliar transactions, changes to your settings or activity you don't recognise, contact our support team. We'll investigate the circumstances and, if necessary, request identity verification or temporarily restrict access to protect your information and funds.</p><p>We allow each player to create only one personal account. Creating duplicate accounts, sharing access with other people or using someone else's identification documents breaches our rules and may result in additional verification, restricted account features or account suspension.<br>&lt;p&gt;Once access has been restored, you can log in to CaratLuck Casino, check your balance and view your active rewards. Any unused &lt;a href=\"/promotions/\"&gt;welcome offers and bonuses&lt;/a&gt; remain available only within the specified promotional periods and conditions. We take care of your account security and support responsible gambling for players aged 18 and over.&lt;/p&gt;</p>",
-      "seoTitle": "CaratLuck Casino Login | Secure Account Access",
-      "seoDescription": "Log in to CaratLuck Casino securely. Access your account, manage your balance, recover your password and get 24/7 support with login or KYC issues.",
-      "htmlHead": "<link rel=\"canonical\" href=\"https://caratluck-casino.co.uk/ogin/\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"CaratLuck Casino Login | Secure Account Access\">\n<meta property=\"og:description\" content=\"Log in to CaratLuck Casino securely. Access your account, manage your balance, recover your password and get 24/7 support with login or KYC issues.\">\n<meta property=\"og:url\" content=\"https://caratluck-casino.co.uk/login/\">\n<meta property=\"og:site_name\" content= \"CaratLuck Casino\">",
+      "content": "<p>Log in to your Valhally Casino account using the email address and password you created during registration. Once signed in, you can access your balance, betting history, active bonuses and account settings. The same account works for both casino games and sports betting, so there is no need to register separately.</p>\n\n<p>We provide account recovery, identity verification and personal data protection. If you have forgotten your password or cannot sign in because your account has been restricted, you can find the available ways to restore access below.</p>\n\n<h2>Sign In to Your Valhally Account</h2>\n\n<p>Use your registered email address and password to access your account. You can sign in through a browser on your computer or smartphone. Once logged in, you can return to your games, view your betting history and manage your personal settings.</p>\n\n<p>To sign in:</p>\n\n<ol>\n<li>Click Login at the top of the page.</li>\n<li>Enter the email address linked to your account.</li>\n<li>Type in your password and click Login.</li>\n</ol>\n\n<p>Your active rewards remain linked to your account. You can check their status after signing in, while the wagering requirements and conditions for free spins and deposit packages are available in <a href=\"/bonus/\">our bonus offers</a>.</p>\n\n<h3>Password Reset and Account Recovery</h3>\n\n<p>If you have forgotten your password, use the password recovery option in the login form. Enter the email address you registered with and follow the instructions to create a new password.</p>\n\n<p>If the recovery email does not arrive, check your Spam and Promotions folders. Make sure the email address you entered matches the one registered to your account. If you still cannot find the message or no longer have access to your email inbox, contact our support team. We may ask you to verify your identity before changing your account details.</p>\n\n<h3>Registering a New Account</h3>\n\n<p>Don't have an account yet? Click Register and complete the registration form. First, enter your email address and create a password. We will then ask for your first name, surname, date of birth, telephone number and residential address. To complete registration, you must confirm that you are of legal age and accept our terms and conditions.</p>\n\n<p>Once registered, you can access <a href=\"/\">our slots, live casino games and sports betting</a> through a single account. Your registration details must be your own, as they may be used later to verify your identity.</p>\n\n<h2>Account Security and Personal Data</h2>\n\n<p>We use identity verification and suspicious activity monitoring to help protect accounts. Each account is intended for personal use only. Sharing access with other people or creating an account using someone else's personal information is against our rules.</p>\n\n<h3>Protecting Your Login Details and Updating Information</h3>\n\n<p>If you suspect that someone else has obtained your password, change it and notify our support team about the possible unauthorised access. We may carry out additional checks to protect your account, personal information and financial transactions.</p>\n\n<p>Changing your registered email address or other personal details may require identity confirmation. If you cannot update the necessary information through your account settings, our support team can help you with your request.</p>\n\n<h3>Identity Verification and Privacy Policy</h3>\n\n<p>Our Know Your Customer policy (KYC Policy) requires us to verify personal details in certain circumstances. We may request photographic identification, a selfie or proof of address. Additional checks may also be required if we detect suspicious activity or discrepancies in the information provided.</p>\n\n<p>Under our Privacy Policy, we process personal information to manage accounts, verify players and prevent fraud. You can request access to your data, ask for corrections or request restrictions on its processing, subject to applicable data retention requirements.</p>\n\n<p>Signing in successfully does not mean that all financial verification checks have been completed. Before withdrawing winnings, you must meet the relevant verification requirements, which are explained in our <a href=\"/withdrawals/\">withdrawal terms</a>.</p>\n\n<h2>Login Problems and Account Restrictions</h2>\n\n<p>If your login details are correct but you still cannot access your account, the reason may be incomplete identity verification, suspicious activity, a breach of our account rules or voluntary self-exclusion. Our support team can help clarify your account status and explain the steps needed to restore access, where permitted.</p>\n\n<p>Creating another account to bypass a restriction is not allowed. Registering again will not remove restrictions already applied to your existing account.</p>\n\n<h3>Self-Exclusion and Restoring Access</h3>\n\n<p>We support voluntary self-exclusion (Self Exclusion), allowing you to restrict access to gambling temporarily or permanently. During the selected period, account access and gaming activities are blocked.</p>\n\n<p>Resetting your password does not remove self-exclusion. If your exclusion period is still active, you will not be able to resume playing. You can contact our support team to clarify the conditions for regaining access once the restriction period has ended.</p>\n\n<h3>Support and Responsible Gambling</h3>\n\n<p>Our support team can help with login problems, password recovery, changes to personal information and account status enquiries. When contacting us, provide the email address linked to your account and a brief description of the issue. There is no need to share your password or full payment details.</p>\n\n<p>As part of our responsible gambling measures, we support betting limits and voluntary self-exclusion. Gambling services are available only to adults in regions where such activities are permitted.</p>\n",
+      "seoTitle": " Valhally Casino Login | Sign In & Access Your Account",
+      "seoDescription": "Log in to Valhally Casino to access your games, balance and account settings. Reset your password, recover access or register a new account.",
+      "htmlHead": "<link rel=\"canonical\" href=\"https://valhallycasino.org.uk/login/\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\" Valhally Casino Login | Sign In & Access Your Account\">\n<meta property=\"og:description\" content=\"Log in to Valhally Casino to access your games, balance and account settings. Reset your password, recover access or register a new account.\">\n<meta property=\"og:url\" content=\"https://valhallycasino.org.uk/login/\">\n<meta property=\"og:site_name\" content= \"Valhally Casino\">",
       "gptPrompt": "",
-      "heroTitle": "CaratLuck Casino Login",
-      "heroSubtitle": "Your Games, Balance & Rewards Are Waiting",
-      "heroBadge": "Access Your CaratLuck Account",
+      "heroTitle": "Valhally Casino Login",
+      "heroSubtitle": "YOUR GAMES AWAIT",
+      "heroBadge": "Sign in to your Valhally account",
       "ctaText": "Log In",
-      "tagline": "",
-      "heroImage": "/uploads/caratluck-login-banner.webp",
+      "tagline": "One Account for Casino & Sports Betting",
+      "heroImage": "/uploads/valhally-login-banner.webp",
       "template": "minimal",
       "isHomepage": false,
       "order": 0,
       "lang": "en-GB",
-      "faqTitle": "Troubleshooting Login Issues and Support",
+      "faqTitle": "FAQ",
       "popupText": "🔐 Ready to Pick Up Where You Left Off?",
-      "popupLogo": "/uploads/logo.webp",
+      "popupLogo": "/uploads/valhally-logo.webp",
       "sections": null,
       "slots": [
         {
-          "link": "",
-          "logo": "/uploads/e402f307b6c761444895c32bb4db41d7.webp",
-          "name": "King of the West",
-          "Name": "King of the West",
-          "logo_alt": "king of the west"
+          "link": "/play/",
+          "logo": "/uploads/266f409efeba053bbeb20e8ae5943918.webp",
+          "name": "Sea of Spirits",
+          "logo_alt": "sea of spirits"
         },
         {
-          "link": "",
-          "logo": "/uploads/67208159a9e5f8396e714ec60dcf5e83.webp",
-          "name": "Stormforged",
-          "Name": "Stormforged",
-          "logo_alt": "stormforged"
+          "link": "/play/",
+          "logo": "/uploads/f86162ae79302a141230bdbe0c1b7ecf.webp",
+          "name": "Coin Dazzle",
+          "logo_alt": "7coindazzle"
         },
         {
-          "link": "",
-          "logo": "/uploads/498dbf89ecad9e8a4c63a2acc87cb117.webp",
-          "name": "Penalty Shoot",
-          "Name": "Penalty Shoot",
-          "logo_alt": "Penalty Shoot"
+          "link": "/play/",
+          "logo": "/uploads/d0aa81f88b3740f311d409aec7db6e40.webp",
+          "name": "SratBrust",
+          "logo_alt": "StarBurst"
         },
         {
-          "link": "",
-          "logo": "/uploads/bf69dc1de1f959daf8a469e031733dff.webp",
-          "name": "Gates of Plympus",
-          "Name": "Gates of Plympus",
-          "logo_alt": "GatesOfOlympus1000"
+          "link": "/play/",
+          "logo": "/uploads/203c5ede1f8648621ea02951729b852f.webp",
+          "name": "JetX",
+          "logo_alt": "JetX"
         }
       ],
       "bonuses": [
@@ -193,28 +195,24 @@
       ],
       "faq": [
         {
-          "answer": "Check the email address and password you used when registering. Pay attention to your keyboard layout, capitalisation and any extra spaces. If your browser automatically fills in the login form, make sure the saved details are up to date. You can also try refreshing the page or using another browser.",
-          "question": "Why can't I log in to CaratLuck?"
+          "answer": "No. You can use the same account for casino games and our Sportsbook. No additional registration is required.",
+          "question": "Do I Need a Separate Account for Sports Betting?"
         },
         {
-          "answer": "If you've forgotten your password, use the password recovery option in the login form, if available. Follow the instructions to verify your identity and set a new password. If you can't restore access yourself, our support team can help you with your request.",
-          "question": "How can I reset my account password?"
+          "answer": "You can initially sign in using the details provided during registration. Email verification may be required for certain account features, including eligible bonus rewards.",
+          "question": "Do I Need to Verify My Email Before My First Login?"
         },
         {
-          "answer": "We may temporarily restrict access because of incomplete KYC verification, suspicious activity or a breach of our terms. In these situations, changing your password will not remove the restriction. You may need to verify your identity or provide additional documents before access can be restored.",
-          "question": "Why has my account been temporarily blocked?"
+          "answer": "If your new password is accepted but you still cannot access your account, contact our support team to check its status. Resetting your password does not remove restrictions related to account suspension or identity verification.",
+          "question": "Why Is Valhally Login Not Working After a Password Reset?"
         },
         {
-          "answer": "Check your Spam and Promotions folders, and make sure the email address linked to your account is correct. If the message hasn't arrived or you've lost access to your email account, contact our team through Live Chat. We'll help you establish an available way to verify your identity.",
-          "question": "What should I do if I haven't received my email verification message?"
+          "answer": "Yes, provided your account has not been suspended or placed under self-exclusion. After 12 months of inactivity, a €10 monthly administration fee may apply if your account has a positive balance.",
+          "question": "Can I Use My Account After a Long Break?"
         },
         {
-          "answer": "Our support team is available through Live Chat 24/7. You can contact us about password recovery, login difficulties, document verification or restricted account access. For security-related enquiries, we may request additional account information. Never share your password with anyone.",
-          "question": "How can I contact support if I can't sign in?"
-        },
-        {
-          "answer": "If your account has been restricted due to self-exclusion, changing your password will not remove the restriction. During the self-exclusion period, we suspend access to gaming, financial transactions and promotional offers. Our support team can clarify the status of your restriction, while account access can only be restored in accordance with our responsible gambling rules.",
-          "question": "Can I regain access to my account after self-exclusion?"
+          "answer": "If you can no longer access your previous email inbox, contact our support team. We may request additional identity verification before updating your registered address.",
+          "question": "Can I Change My Email Address Without Access to the Old One?"
         }
       ],
       "globalSlotSetId": null,
@@ -229,23 +227,23 @@
       "id": 185,
       "title": "Withdrawal",
       "slug": "withdrawal",
-      "content": "",
-      "seoTitle": "",
-      "seoDescription": "",
-      "htmlHead": "",
+      "content": "<p>Your winnings should be easy to manage. At Valhally Casino, you can request a withdrawal directly from your account and keep track of its progress in one place. We've made the process straightforward, so you know where your funds stand from the moment you submit a request.</p>\n\n<p>Whether you're cashing out for the first time or returning to withdraw another win, we're here to help you through the process. Check your available options, understand what happens before a payout is approved and find the answers you need if something doesn't go as expected.</p>\n\n\n<h2>Withdrawal Requests and Available Payment Methods</h2>\n\n<p>Once signed in, open the cashier and select Withdraw. You will see the payment methods available for your account. These may vary depending on your country of residence, account currency and payment methods previously used.</p>\n\n<p>Supported payment options include Visa, Mastercard, Skrill, Bitcoin, Ethereum and Tether (USDT). Bank transfers may also be used to receive winnings. Not every deposit method supports withdrawals, so check the available options in the cashier before submitting a request.</p>\n\n<table style=\"width:100%; border-collapse:collapse; text-align:left;\">\n<thead>\n<tr>\n<th style=\"border:1px solid #ddd; padding:10px;\">Category</th>\n<th style=\"border:1px solid #ddd; padding:10px;\">Payment Methods</th>\n<th style=\"border:1px solid #ddd; padding:10px;\">Withdrawal Details</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"border:1px solid #ddd; padding:10px;\">Bank Cards</td>\n<td style=\"border:1px solid #ddd; padding:10px;\">Visa, Mastercard</td>\n<td style=\"border:1px solid #ddd; padding:10px;\">Withdrawal availability depends on your card, bank and supported payment channels.</td>\n</tr>\n<tr>\n<td style=\"border:1px solid #ddd; padding:10px;\">E-Wallets</td>\n<td style=\"border:1px solid #ddd; padding:10px;\">Skrill</td>\n<td style=\"border:1px solid #ddd; padding:10px;\">The wallet must belong to the account holder.</td>\n</tr>\n<tr>\n<td style=\"border:1px solid #ddd; padding:10px;\">Bank Transfers</td>\n<td style=\"border:1px solid #ddd; padding:10px;\">Bank Transfer</td>\n<td style=\"border:1px solid #ddd; padding:10px;\">Accurate bank account details are required to receive funds.</td>\n</tr>\n<tr>\n<td style=\"border:1px solid #ddd; padding:10px;\">Cryptocurrencies</td>\n<td style=\"border:1px solid #ddd; padding:10px;\">Bitcoin, Ethereum, Tether (USDT)</td>\n<td style=\"border:1px solid #ddd; padding:10px;\">Check your wallet address and the supported blockchain network before requesting a transfer.</td>\n</tr>\n</tbody>\n</table>\n\n<p>Apple Pay and Google Pay may be available for deposits, but this does not necessarily mean they support direct withdrawals. Funds may instead be paid to a linked bank card or another method available in the cashier.</p>\n\n<h3>How to Request a Withdrawal</h3>\n\n<p>We accept withdrawal requests through the cashier in your account. Before confirming a request, check your available balance and recipient details.</p>\n\n<ol>\n<li>Open the Cashier in your account.</li>\n<li>Go to Withdraw and select an available payment method.</li>\n<li>Enter an amount within the applicable limits.</li>\n<li>Check your payment details and confirm the request.</li>\n<li>Track your withdrawal in your transaction history.</li>\n</ol>\n\n<p>If additional verification is required, we may request documents before completing the process. Funds are transferred once your withdrawal has been approved and all necessary conditions have been met.</p>\n\n<p>Under our payment rules, the recipient must be the account holder. If a previously used payment method no longer supports withdrawals, contact our support team to discuss an available alternative.</p>\n\n<h3>Transaction Limits, Currencies and Processing Times</h3>\n\n<p>Standard accounts are subject to a minimum withdrawal amount and limits on the total value of payouts over specific periods. If your winnings exceed the available limit, you can receive the funds through multiple withdrawals.</p>\n\n<table style=\"width:100%; border-collapse:collapse; text-align:left;\">\n<thead>\n<tr>\n<th style=\"border:1px solid #ddd; padding:10px;\">Parameter</th>\n<th style=\"border:1px solid #ddd; padding:10px;\">Limit or Condition</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"border:1px solid #ddd; padding:10px;\">Minimum Withdrawal</td>\n<td style=\"border:1px solid #ddd; padding:10px;\">€50</td>\n</tr>\n<tr>\n<td style=\"border:1px solid #ddd; padding:10px;\">Maximum Daily Withdrawal</td>\n<td style=\"border:1px solid #ddd; padding:10px;\">€500</td>\n</tr>\n<tr>\n<td style=\"border:1px solid #ddd; padding:10px;\">Maximum Weekly Withdrawal</td>\n<td style=\"border:1px solid #ddd; padding:10px;\">€2,000</td>\n</tr>\n<tr>\n<td style=\"border:1px solid #ddd; padding:10px;\">Maximum Monthly Withdrawal</td>\n<td style=\"border:1px solid #ddd; padding:10px;\">€7,000</td>\n</tr>\n<tr>\n<td style=\"border:1px solid #ddd; padding:10px;\">VIP Withdrawals</td>\n<td style=\"border:1px solid #ddd; padding:10px;\">Up to €30,000 depending on VIP Club level</td>\n</tr>\n<tr>\n<td style=\"border:1px solid #ddd; padding:10px;\">Withdrawal Processing</td>\n<td style=\"border:1px solid #ddd; padding:10px;\">Up to 3 banking days</td>\n</tr>\n</tbody>\n</table>\n\n<p>For example, if you have €1,200 in your available balance and the daily withdrawal limit is €500, you cannot withdraw the full amount in a single day. Requests must be spread across the permitted periods without exceeding the weekly or monthly limits.</p>\n\n<p>VIP Club members may qualify for higher withdrawal limits depending on their status. The maximum payout amount can reach €30,000, although this limit does not apply to every VIP level.</p>\n\n<p>The three-banking-day period refers to withdrawal processing rather than guaranteed delivery of funds. Once a transfer has been sent, your bank, e-wallet or payment provider may need additional time to credit the money. Security checks can also extend the overall timeframe.</p>\n\n<h3>Deposit Turnover Requirements Before Withdrawal</h3>\n\n<p>A x1 turnover requirement applies to deposits made without a bonus. This means you must place qualifying bets with a total value of at least your deposit amount before requesting a withdrawal.</p>\n\n<p>For example, if you deposit €100 without activating a bonus, the required betting turnover is €100. This does not mean you must lose €100. It refers to the total value of qualifying bets.</p>\n\n<p>If you made a deposit with an active bonus, the wagering requirements of that particular offer apply instead. These may be higher and can include both the deposit and the bonus funds received. Full details are available in <a href=\"/bonus/\">our bonus terms</a>.</p>\n\n<p>If the required turnover has not been completed, your withdrawal request may be suspended or declined. We may also carry out additional financial checks if an account is used primarily to move funds without corresponding gambling activity.</p>\n\n<h2>Security Checks Before Withdrawal</h2>\n\n<p>Before transferring winnings, we must verify the recipient's identity and review the relevant financial transactions. These procedures help prevent the use of third-party payment details, fraud and breaches of financial monitoring requirements.</p>\n\n<p>Verification may take place before your first withdrawal or be repeated if previously submitted information needs to be updated or clarified. Your request may remain pending until the necessary checks are completed.</p>\n\n<h3>Identity Verification Under Our KYC Policy</h3>\n\n<p>Our Know Your Customer policy (KYC Policy) requires us to verify personal information before releasing funds. During this process, we compare the account holder's details with their identification documents and payment information.</p>\n\n<p>Depending on the circumstances, we may request:</p>\n\n<ul>\n<li>Photographic identification - a passport or another valid identity document.</li>\n<li>A selfie - to confirm that the documents belong to the account holder.</li>\n<li>Proof of address - a document showing your current residential address.</li>\n<li>Proof of payment method ownership - information confirming that the card, bank account or wallet belongs to you.</li>\n<li>Source-of-funds information - where additional financial verification is required.</li>\n</ul>\n\n<p>Full KYC verification is also required when cumulative deposits exceed €2,000. If total deposits exceed €5,000, we may request documents confirming the source of your funds.</p>\n\n<p>Documents must be valid, legible and consistent with your registered details. If information is incomplete or does not match, we may ask you to submit the documents again.</p>\n\n<p>Signing in successfully does not replace financial verification. If you need help accessing your account or recovering your login details, the relevant steps are explained on our <a href=\"/login/\">account login page</a>.</p>\n\n<h3>AML Policy, Financial Monitoring and Refunds</h3>\n\n<p>Our Anti-Money Laundering policy (AML Policy) requires us to monitor suspicious transactions, funding sources and payment method ownership. We may ask for an explanation of account activity or documents confirming where your funds originated.</p>\n\n<p>Using payment details belonging to another person may result in a declined withdrawal. Additional financial monitoring may also apply when deposit, betting or withdrawal activity requires further investigation.</p>\n\n<p>Withdrawing winnings and requesting a deposit refund are two different transactions. Under our Refund Policy, a refund request may be considered in cases involving technical errors or duplicate transactions. Funds already used for betting, along with bonus credits, are not eligible for refunds.</p>\n\n<p>If you have been charged twice by mistake or experienced a technical issue with a deposit, contact our support team with the transaction amount and relevant details. We will investigate the payment and determine whether it meets our refund conditions.</p>\n\n<h2>Common Withdrawal Issues</h2>\n\n<p>The status of your withdrawal depends on the availability of funds, accurate payment details, applicable limits and compliance with financial requirements. If any of these need further checks, your payout may be delayed.</p>\n\n<h3>Why a Withdrawal May Be Suspended or Cancelled</h3>\n\n<p>A request may remain pending if identity verification is incomplete, payment details need clarification or the deposit turnover requirement has not been met. We may also decline a withdrawal if the requested amount exceeds the permitted limit or the payment method does not belong to the account holder.</p>\n\n<table style=\"width:100%; border-collapse:collapse; text-align:left;\">\n<thead>\n<tr>\n<th style=\"border:1px solid #ddd; padding:10px;\">Reason</th>\n<th style=\"border:1px solid #ddd; padding:10px;\">What to Do</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"border:1px solid #ddd; padding:10px;\">Incomplete KYC Verification</td>\n<td style=\"border:1px solid #ddd; padding:10px;\">Submit the requested documents and complete verification.</td>\n</tr>\n<tr>\n<td style=\"border:1px solid #ddd; padding:10px;\">Withdrawal Limit Exceeded</td>\n<td style=\"border:1px solid #ddd; padding:10px;\">Adjust the withdrawal amount to the available limit.</td>\n</tr>\n<tr>\n<td style=\"border:1px solid #ddd; padding:10px;\">Payment Details Do Not Match</td>\n<td style=\"border:1px solid #ddd; padding:10px;\">Confirm payment method ownership or clarify the details with support.</td>\n</tr>\n<tr>\n<td style=\"border:1px solid #ddd; padding:10px;\">Deposit Turnover Not Completed</td>\n<td style=\"border:1px solid #ddd; padding:10px;\">Check whether the x1 turnover requirement has been met for a deposit without a bonus.</td>\n</tr>\n<tr>\n<td style=\"border:1px solid #ddd; padding:10px;\">Active Bonus with Wagering Requirements</td>\n<td style=\"border:1px solid #ddd; padding:10px;\">Complete the wagering requirements of the relevant promotion.</td>\n</tr>\n<tr>\n<td style=\"border:1px solid #ddd; padding:10px;\">Additional AML Checks</td>\n<td style=\"border:1px solid #ddd; padding:10px;\">Provide the requested transaction or source-of-funds information.</td>\n</tr>\n<tr>\n<td style=\"border:1px solid #ddd; padding:10px;\">Technical Payment Error</td>\n<td style=\"border:1px solid #ddd; padding:10px;\">Contact support with the transaction amount and details.</td>\n</tr>\n</tbody>\n</table>\n\n<p>If a withdrawal request is cancelled, what happens to the funds depends on the reason for cancellation. If the transfer has not been completed and the funds remain available, you can check their status in your transaction history or contact support for clarification.</p>\n\n<h3>Fees, Transaction Status and Support</h3>\n\n<p>Before confirming a withdrawal, check the amount, currency and selected payment method. Additional charges may be applied by your bank or payment provider, or arise from currency conversion. Cryptocurrency transfers may also involve blockchain network fees. The exact costs depend on the method used.</p>\n\n<p>Once submitted, you can track your request in your transaction history. A withdrawal may be pending, awaiting additional verification, approved or declined. If the transfer has already been sent, the time it takes for the funds to arrive depends on the receiving payment provider.</p>\n\n<p>If your withdrawal is delayed, contact our support team with the requested amount, payment method and current transaction status. This allows us to investigate the specific payment without submitting duplicate withdrawal requests.</p>\n\n<p>Once your financial transactions are complete, you can return to <a href=\"/\">our slots, live dealer tables and sports betting</a> using the same personal account.</p>\n",
+      "seoTitle": "Valhally Casino Withdrawals | Methods, Limits & Payouts",
+      "seoDescription": "Explore Valhally Casino withdrawals, including a €50 minimum payout, payment methods, withdrawal limits, processing times and KYC requirements.",
+      "htmlHead": "<link rel=\"canonical\" href=\"https://valhallycasino.org.uk/withdrawal/\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\" Valhally Casino Withdrawals | Methods, Limits & Payouts\">\n<meta property=\"og:description\" content=\"Explore Valhally Casino withdrawals, including a €50 minimum payout, payment methods, withdrawal limits, processing times and KYC requirements.\">\n<meta property=\"og:url\" content=\"https://valhallycasino.org.uk/withdrawal/\">\n<meta property=\"og:site_name\" content= \"Valhally Casino\">",
       "gptPrompt": "",
-      "heroTitle": "",
-      "heroSubtitle": "",
-      "heroBadge": "",
-      "ctaText": "",
-      "tagline": "",
-      "heroImage": "",
+      "heroTitle": "Valhally Casino Withdrawals",
+      "heroSubtitle": "YOUR WINNINGS, YOUR WAY",
+      "heroBadge": "Manage your Valhally withdrawals",
+      "ctaText": "Withdraw Funds",
+      "tagline": "WITHDRAW FROM €50",
+      "heroImage": "/uploads/valhally-withdrawal-banner.webp",
       "template": "minimal",
       "isHomepage": false,
       "order": 0,
       "lang": "en-GB",
-      "faqTitle": "",
-      "popupText": "⚔️ Enter Valhally! Unlock 450% up to €28,000 and 450 Free Spins.",
+      "faqTitle": "FAQ",
+      "popupText": "💰 Ready to Cash Out? Withdraw from €50 and manage your payouts in the Valhally cashier.",
       "popupLogo": "/uploads/valhally-logo.webp",
       "sections": null,
       "slots": [
@@ -281,36 +279,53 @@
       "bonuses": [
         {
           "link": "/play/",
-          "logo": "/uploads/4d2c57274ad41f70797e49427599fbc6.webp",
-          "name": "450% UP TO €28,000 + 450 FREE SPINS",
-          "Name": "450% UP TO €28,000 + 450 FREE SPINS",
-          "logo_alt": "Crypto Bonus"
+          "logo": "/uploads/7ab6f990af61c08471ac8ecb2265534b.webp",
+          "name": "UP TO 3 BANKING DAYS"
         },
         {
           "link": "/play/",
-          "logo": "/uploads/ff3799c304493a4eadcd34d7ed511ace.webp",
-          "name": "FREE DAILY SPIN Win Up to €435 or 100 FS",
-          "Name": "FREE DAILY SPIN Win Up to €435 or 100 FS",
-          "logo_alt": "Welcome Bonus"
+          "logo": "/uploads/02996f4784b8a0974ce1af9c99db51aa.webp",
+          "name": " MINIMUM WITHDRAWAL €50"
         },
         {
           "link": "/play/",
-          "logo": "/uploads/32c02a3fed09a205b7c4720662b18c71.webp",
-          "name": "17 VIP LEVELS Up to 40% Daily Cashback",
-          "Name": "17 VIP LEVELS Up to 40% Daily Cashback",
-          "logo_alt": "Sport Bonus"
+          "logo": "/uploads/a8507b993bf590b44cdea6e9a64a7a0b.webp",
+          "name": "UP TO €30,000"
         }
       ],
-      "faq": [],
+      "faq": [
+        {
+          "answer": "No. You must complete the required KYC checks before receiving a payout. We may request documents confirming your identity, address and ownership of the payment method.",
+          "question": "Can I Withdraw Winnings Without Verifying My Identity?"
+        },
+        {
+          "answer": "No. Payment details must belong to the account holder. If a previously used method is no longer available, contact our support team to discuss an alternative.",
+          "question": "Can I Receive a Withdrawal to Someone Else's Bank Card?"
+        },
+        {
+          "answer": "A x1 turnover requirement applies to deposits made without a bonus. You must place qualifying bets equal to the deposit amount before withdrawing. If you have activated a bonus, separate wagering requirements apply.",
+          "question": "Can I Withdraw My Deposit Without Placing Any Bets?"
+        },
+        {
+          "answer": "Direct withdrawals through these services have not been confirmed among the available payment methods. If you used Apple Pay or Google Pay to deposit, check the cashier to see whether you can receive funds through the linked bank card or another supported method.",
+          "question": "Can I Withdraw Through Apple Pay or Google Pay?"
+        },
+        {
+          "answer": "Check the transaction status and payment details. If the transfer has already been sent, the delay may be caused by your bank or payment provider. Our support team can help you check the status of the payment.",
+          "question": "What Should I Do If My Withdrawal Has Not Arrived After Approval?"
+        },
+        {
+          "answer": "No. Funds already used for betting are not refundable. Requests under our Refund Policy are considered in cases involving technical errors or duplicate payments.",
+          "question": "Can I Get a Refund After Playing?"
+        }
+      ],
       "globalSlotSetId": null,
       "globalReviewSetId": null,
       "websiteId": 251,
       "createdAt": {},
       "updatedAt": {},
       "globalSlotSet": null,
-      "globalReviewSet": null,
-      "popup_text": "⚔️ Enter Valhally! Unlock 450% up to €28,000 and 450 Free Spins.",
-      "popup_logo": "/uploads/valhally-logo.webp"
+      "globalReviewSet": null
     }
   ],
   "faq_schema": {
@@ -430,7 +445,7 @@
       "openInNewTab": false
     },
     {
-      "link": "/play/",
+      "link": "/withdrawal/",
       "label": "Withdrawal",
       "submenu": [],
       "openInNewTab": false
@@ -571,8 +586,8 @@
       "question": "Can I Temporarily Block My Own Account?"
     }
   ],
-  "_generated_at": "2026-11-18T15:11:15.411Z",
+  "_generated_at": "2026-11-19T07:14:28.577Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-18T15:11:16.166Z",
-  "_deploy_trigger": "7jwgs"
+  "_last_deploy": "2026-11-19T07:14:29.364Z",
+  "_deploy_trigger": "wcedsa"
 }
