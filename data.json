@@ -406,7 +406,7 @@
   "secondary_background": "#3b3b3b",
   "button_background": "#5071ac",
   "button_text_color": "#ffffff",
-  "text_color": "#e4e4f1",
+  "text_color": "#ffffff",
   "color_highlight_text": "#ffffff",
   "color_main_btn_text": "#f2f6ff",
   "cta_background": "#5071ac",
@@ -586,8 +586,8 @@
       "question": "Can I Temporarily Block My Own Account?"
     }
   ],
-  "_generated_at": "2026-11-19T07:22:12.640Z",
+  "_generated_at": "2026-11-19T07:23:41.626Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-19T07:22:13.283Z",
-  "_deploy_trigger": "1l1vnb"
+  "_last_deploy": "2026-11-19T07:23:42.210Z",
+  "_deploy_trigger": "12fawr"
 }
